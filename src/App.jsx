@@ -14,7 +14,8 @@ const App = () => {
 			</div>
 			<div className="footer">
 				<h4>
-					This application uses API from <a
+					This application uses API from{" "}
+					<a
 						rel='noreferrer' 
 						target={"_blank"} 
 						href="https://currencyfreaks.com">Currency Freaks
