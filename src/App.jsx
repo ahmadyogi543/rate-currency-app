@@ -13,7 +13,15 @@ const App = () => {
 				<RateCurrency />
 			</div>
 			<div className="footer">
-				<h4>This application uses API from <a rel='noreferrer' target={"_blank"} href="https://currencyfreaks.com">Currency Freaks</a></h4>
+				<h4>
+					This application uses API from
+					<a 
+						rel='noreferrer' 
+						target={"_blank"} 
+						href="https://currencyfreaks.com">
+							Currency Freaks
+					</a>
+				</h4>
 			</div>
 		</div>
 	)
